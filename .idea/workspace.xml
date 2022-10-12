@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="505bef17-bc9a-4aaa-bdb5-67b6f4d95b4c" name="Changes" comment="Added multiply feature">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ea70b7ed-5c55-4847-8ea3-b5ae17ef7747" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ie/atu/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/atu/Calc.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -24,6 +25,7 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="2G1jPPDK3H3CaYkARalKPoKowrz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added multiply feature" />
