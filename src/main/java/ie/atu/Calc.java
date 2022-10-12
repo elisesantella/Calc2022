@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Calc {
     public static void main(String[] args) {
         multiply();
+        subtract();
+        add();
     }
     public static void multiply(){
         System.out.println("Please enter first number: ");
