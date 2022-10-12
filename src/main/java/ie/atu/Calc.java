@@ -13,6 +13,7 @@ public class Calc {
         System.out.println("Please enter second number: ");
         int secondNum = input.nextInt();
 
+
         int total = firstNum*secondNum;
         System.out.println("Total: "+total);
         add();
