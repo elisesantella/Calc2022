@@ -18,8 +18,6 @@ public class Calc {
 
         int total = firstNum*secondNum;
         System.out.println("Total: "+total);
-        add();
-        subtract();
     }
 
     public static void subtract()
